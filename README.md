@@ -19,7 +19,7 @@ Hi! I am Software Engineer with an experience of 2 years.
 ### **SOFTWARE ENGINEER 3**
 ### Walmart
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.
 
 ### **SOFTWARE ENGINEER 3 INTERN** 
 ### Walmart
