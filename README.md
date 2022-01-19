@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/ameymhadgut/ameymhadgut.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am Software Engineer with an experience of 2 years. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt=“Airflow” width=“80" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' alt=“SPARK” width=“80" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg' height='40' width=’80’ alt=“Looker”>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **SOFTWARE ENGINEER 3**
+### Walmart
 
-1. Numbered
-2. List
+Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
-**Bold** and _Italic_ and `Code` text
+### **SOFTWARE ENGINEER 3 INTERN** 
+### Walmart
 
-[Link](url) and ![Image](src)
-```
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **SOFTWARE ENGINEER**
+### Deloitte Digital
 
-### Jekyll Themes
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ameymhadgut/ameymhadgut.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+## Education
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### **NEW YORK UNIVERSITY**
+### MS, Computer Science (2020- 2021)
+GPA 3.788/4
+
+### **UNIVERSITY OF MUMBAI**
+### BE, Computer Engineering (2013- 2017)
+GPA 7.75/10
+---
