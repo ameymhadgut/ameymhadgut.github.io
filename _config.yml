@@ -2,9 +2,6 @@ title: Amey Mhadgut # your name (or website title) here
 logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Software Engineer
-  <br><br>
   <br>
   <a href="https://www.linkedin.com/in/amey-m/">LinkedIn Profile</a>
-  <br>
-  <a href="https://www.gihub.com/ameymhadgut">Gihub</a> 
 theme: jekyll-theme-minimal
